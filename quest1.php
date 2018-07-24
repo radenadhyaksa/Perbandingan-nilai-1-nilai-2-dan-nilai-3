@@ -2,7 +2,7 @@
     <body>
 
         <form method="POST" 
-        action="bebas.php">
+        action="quest1_tampil.php">
 
     
 
